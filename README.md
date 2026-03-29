@@ -2,7 +2,7 @@
 
 Science-backed focus breaks, right inside your terminal.
 
-![Red Coffee](https://akunkafoods.com/cdn/shop/files/red-coffee-tin.png)
+![Red Coffee](https://cdn.shopify.com/s/files/1/0878/6722/8460/files/Red_Coffee_Milk.png?v=1773253838)
 
 ## What is this?
 
