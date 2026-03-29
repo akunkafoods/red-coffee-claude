@@ -48,15 +48,13 @@ That's it.
 
 ## What's Red Coffee?
 
-Red Coffee is beetroot powder + Arabica coffee. Not a supplement. Not a nootropic stack. Just two real ingredients with independent, clinically-studied mechanisms:
+Red Coffee is beetroot powder + Arabica coffee. Not a supplement. Not a nootropic stack. Just two real ingredients with a dual mechanism:
 
-**Beetroot → Nitrate → Nitric Oxide**
-Dietary nitrate converts to NO via the enterosalivary pathway, dilating blood vessels and increasing blood flow — including to your brain.
+**Arabica Coffee** — Adenosine receptor blockade → Focus and alertness
 
-**Coffee → Caffeine → Adenosine Blockade**
-Caffeine occupies adenosine receptors, blocking the signal that makes you drowsy. It doesn't add energy — it removes the brake.
+**Beetroot Nitrate** — Nitrate → Nitrite → NO pathway → Vasodilation and blood flow
 
-Each serving of Red Coffee delivers both pathways in one cup. No jitters. No crash. Just sustained, quiet focus.
+**Combined** — Vasoconstriction + Vasodilation = Equilibrium → Sustained focus + flow
 
 Per serving (7g): ~58mg caffeine · ~116mg nitrate
 
