@@ -17,7 +17,7 @@ mkdir -p ~/.claude/commands && curl -sL -o ~/.claude/commands/red-coffee.md http
 ```
 Built a Claude Code command for the moment your brain hits diminishing returns.
 
-Beetroot + coffee. Nitric oxide + adenosine blockade. Different pathways, same cup.
+Beetroot + coffee. One cup. Two mechanisms.
 
 github.com/akunkafoods/red-coffee-claude
 ```
@@ -37,7 +37,7 @@ github.com/akunkafoods/red-coffee-claude
 ```
 /red-coffee for when you've been staring at the same file too long.
 
-One slash command. Flow science, brew protocols, developer state checks.
+One slash command. Geek science, red protocols, developer state checks.
 
 github.com/akunkafoods/red-coffee-claude
 ```
@@ -53,14 +53,14 @@ I spend most of my day in Claude Code. So I built a slash command for that exact
 
 Type /red-coffee. You get one of four things:
 — A geeky science fact about how caffeine and nitrate actually work (with tech metaphors)
-— A brew protocol formatted like a CLI command
+— A red protocol formatted like a CLI command
 — A break nudge disguised as a system warning
 — A developer state check that pattern-matches what's probably happening in your head
 
 Install:
 mkdir -p ~/.claude/commands && curl -sL -o ~/.claude/commands/red-coffee.md https://raw.githubusercontent.com/akunkafoods/red-coffee-claude/main/red-coffee.md
 
-What's Red Coffee? Beetroot powder + Arabica coffee. Caffeine handles the neural stack (adenosine blockade), nitrate handles the vascular stack (NO-mediated blood flow). Different pathways, same cup. Not a supplement, not a nootropic — a simple ritual for coders who want a better work block, not a chemistry experiment.
+What's Red Coffee? Beetroot powder + Arabica coffee. Instant mix. Caffeine vasoconstricts — sharpens focus but reduces blood flow. Beetroot nitrate vasodilates — restores blood flow through nitric oxide. Combined = equilibrium. One cup. Two mechanisms. Not a supplement, not a nootropic — a simple ritual for coders who want a better work block, not a chemistry experiment.
 
 Made by Akunka (akunkafoods.com). The command file is just markdown — fork it and make it your own.
 
@@ -77,9 +77,9 @@ Link: github.com/akunkafoods/red-coffee-claude
 Comment:
 Small markdown slash command for Claude Code. One file, curl install, no dependencies.
 
-It serves four types of output at random: a science snippet about how caffeine and dietary nitrate work through independent pathways, a brew recipe formatted as CLI flags, a break nudge styled as a system warning, or a developer state check that pattern-matches common cognitive states during long sessions.
+It serves four types of output at random: a science snippet about how caffeine and dietary nitrate work through complementary mechanisms, an instant mix recipe formatted as CLI flags, a break nudge styled as a system warning, or a developer state check that pattern-matches common cognitive states during long sessions.
 
-The underlying product is Red Coffee — beetroot powder + Arabica coffee. Caffeine works on the neural side (adenosine blockade), dietary nitrate supports nitric oxide production and blood flow on the vascular side. Different mechanisms, one cup.
+The underlying product is Red Coffee — beetroot powder + Arabica coffee instant mix. Caffeine vasoconstricts (focus but reduced blood flow), beetroot nitrate vasodilates (restores flow via nitric oxide). Combined = equilibrium. The NO pathway won the 1998 Nobel Prize in Medicine.
 
 The command file is just markdown. Fork it, edit it, make it yours. Feedback welcome.
 ```
@@ -89,13 +89,13 @@ The command file is just markdown. Fork it, edit it, make it yours. Feedback wel
 ```
 Long coding sessions often fail not because the problem is hard, but because attention quality drops.
 
-We make Red Coffee — beetroot + Arabica coffee — and we built a tool for the developers who drink it:
+We make Red Coffee — beetroot + Arabica coffee instant mix — and we built a tool for the developers who drink it:
 
 /red-coffee — a Claude Code slash command.
 
 One curl command to install. Type /red-coffee between sessions. Get:
 → Geek science with tech metaphors (sudo vasodilate, killall adenosine)
-→ Brew protocols formatted as CLI commands
+→ Red protocols formatted as CLI commands
 → Developer state checks that pattern-match your cognitive state
 → Break nudges disguised as system warnings
 
