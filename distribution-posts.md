@@ -3,13 +3,11 @@
 ## X/Twitter — Primary Post (with screenshot)
 
 ```
-Red Coffee for Claude Code.
+For when the bug is no longer the bug. Your brain is.
 
-One file. One command. Science-backed focus breaks while you ship.
+/red-coffee — a Claude Code slash command for coder breaks, focus rituals, and less brute-force debugging.
 
-mkdir -p ~/.claude/commands && curl -o ~/.claude/commands/red-coffee.md https://raw.githubusercontent.com/akunkafoods/red-coffee-claude/main/red-coffee.md
-
-Then type /red-coffee
+mkdir -p ~/.claude/commands && curl -sL -o ~/.claude/commands/red-coffee.md https://raw.githubusercontent.com/akunkafoods/red-coffee-claude/main/red-coffee.md
 
 [attach: terminal screenshot of /red-coffee output]
 ```
@@ -17,9 +15,9 @@ Then type /red-coffee
 ## X/Twitter — Shorter Variant
 
 ```
-Added /red-coffee to my Claude Code setup.
+Built a Claude Code command for the moment your brain hits diminishing returns.
 
-Beetroot + coffee. Nitric oxide + adenosine blockade. Two independent pathways, one cup.
+Beetroot + coffee. Nitric oxide + adenosine blockade. Different pathways, same cup.
 
 github.com/akunkafoods/red-coffee-claude
 ```
@@ -34,25 +32,37 @@ Anyway, I put the science inside a Claude Code slash command: /red-coffee
 github.com/akunkafoods/red-coffee-claude
 ```
 
+## X/Twitter — Developer Pain Hook
+
+```
+/red-coffee for when you've been staring at the same file too long.
+
+One slash command. Flow science, brew protocols, developer state checks.
+
+github.com/akunkafoods/red-coffee-claude
+```
+
 ## dev.to Post Title + Intro
 
 ```
-Title: I made a slash command that reminds me to drink beetroot coffee
+Title: I made a slash command for the moment you stop getting smarter
 
-I've been using Claude Code for months. I also drink an unholy amount of coffee.
+There's a point in every coding session where you stop getting smarter and start re-reading the same code. You're not stuck on the problem — your attention quality dropped and you didn't notice.
 
-Somewhere along the way I learned that regular coffee vasoconstricts (narrows blood vessels) while beetroot nitrate vasodilates (widens them). Combining both gives you the adenosine blockade from caffeine *and* increased blood flow from nitric oxide.
+I spend most of my day in Claude Code. So I built a slash command for that exact moment.
 
-So I made a Claude Code command that serves up the science + recipes between coding sessions.
+Type /red-coffee. You get one of four things:
+— A geeky science fact about how caffeine and nitrate actually work (with tech metaphors)
+— A brew protocol formatted like a CLI command
+— A break nudge disguised as a system warning
+— A developer state check that pattern-matches what's probably happening in your head
 
 Install:
-mkdir -p ~/.claude/commands && curl -o ~/.claude/commands/red-coffee.md https://raw.githubusercontent.com/akunkafoods/red-coffee-claude/main/red-coffee.md
+mkdir -p ~/.claude/commands && curl -sL -o ~/.claude/commands/red-coffee.md https://raw.githubusercontent.com/akunkafoods/red-coffee-claude/main/red-coffee.md
 
-Type /red-coffee. That's it.
+What's Red Coffee? Beetroot powder + Arabica coffee. Caffeine handles the neural stack (adenosine blockade), nitrate handles the vascular stack (NO-mediated blood flow). Different pathways, same cup. Not a supplement, not a nootropic — a simple ritual for coders who want a better work block, not a chemistry experiment.
 
-It picks a random response each time — a flow-state fact, a recipe, or a break nudge. No emojis. No marketing voice. Just the science.
-
-What's Red Coffee? Beetroot powder + Arabica coffee by Akunka (akunkafoods.com). Two ingredients, two independent mechanisms, one cup.
+Made by Akunka (akunkafoods.com). The command file is just markdown — fork it and make it your own.
 
 Repo: github.com/akunkafoods/red-coffee-claude
 ```
@@ -60,41 +70,42 @@ Repo: github.com/akunkafoods/red-coffee-claude
 ## Hacker News — Show HN
 
 ```
-Title: Show HN: /red-coffee – A Claude Code slash command for science-backed focus breaks
+Title: Show HN: /red-coffee – A Claude Code slash command for developer focus breaks
 
 Link: github.com/akunkafoods/red-coffee-claude
 
 Comment:
-I run a longevity food company (Akunka) and our first product is Red Coffee — beetroot + Arabica coffee. The beetroot provides dietary nitrate that converts to nitric oxide (vasodilation, increased cerebral blood flow), while caffeine handles adenosine receptor blockade.
+Small markdown slash command for Claude Code. One file, curl install, no dependencies.
 
-I spend most of my day in Claude Code, so I made a slash command that serves up the science, recipes, and break nudges between sessions. One file, curl install, no dependencies.
+It serves four types of output at random: a science snippet about how caffeine and dietary nitrate work through independent pathways, a brew recipe formatted as CLI flags, a break nudge styled as a system warning, or a developer state check that pattern-matches common cognitive states during long sessions.
 
-The 2024 Gilsanz meta-analysis confirmed the two mechanisms are independent (no synergistic ergogenic effect), which is actually the cleaner positioning — two separate levers for focus, not a magic combo.
+The underlying product is Red Coffee — beetroot powder + Arabica coffee. Caffeine works on the neural side (adenosine blockade), dietary nitrate supports nitric oxide production and blood flow on the vascular side. Different mechanisms, one cup.
 
-Feedback welcome. The command file is just markdown — fork it and make it your own.
+The command file is just markdown. Fork it, edit it, make it yours. Feedback welcome.
 ```
 
 ## LinkedIn
 
 ```
-We make Red Coffee — beetroot + Arabica coffee — for sustained focus.
+Long coding sessions often fail not because the problem is hard, but because attention quality drops.
 
-Our customers include developers who spend 8+ hours a day in deep work. So we built something for them:
+We make Red Coffee — beetroot + Arabica coffee — and we built a tool for the developers who drink it:
 
 /red-coffee — a Claude Code slash command.
 
 One curl command to install. Type /red-coffee between sessions. Get:
-→ Flow-state science (nitrate→NO pathway, adenosine blockade)
-→ Recipes calibrated for focus
-→ Break nudges grounded in ultradian rhythm research
+→ Geek science with tech metaphors (sudo vasodilate, killall adenosine)
+→ Brew protocols formatted as CLI commands
+→ Developer state checks that pattern-match your cognitive state
+→ Break nudges disguised as system warnings
 
-No app. No account. Just a markdown file in your terminal.
+No app. No account. One markdown file in your terminal.
 
-The product is the brand placement. The science is the content. The developer's workflow is the channel.
+We built it for a specific workflow: the moment a coder's brain hits diminishing returns but their hands haven't stopped typing yet.
 
 github.com/akunkafoods/red-coffee-claude
 
-#redcoffee #claudecode #developertools #longevity #akunka
+#redcoffee #claudecode #developertools #deepwork #akunka
 ```
 
 ---
@@ -104,6 +115,7 @@ github.com/akunkafoods/red-coffee-claude
 To create the terminal screenshot for social posts:
 1. Open Claude Code in iTerm2 or your preferred terminal
 2. Type /red-coffee
-3. Screenshot the output (Cmd+Shift+4 on Mac, select the terminal area)
-4. Optionally use a tool like carbon.now.sh to make it look polished
-5. Attach to the X/Twitter post
+3. Run it a few times — pick the output that looks best (geek science or developer state tends to screenshot well)
+4. Screenshot the output (Cmd+Shift+4 on Mac, select the terminal area)
+5. Optionally use carbon.now.sh to make it polished
+6. Attach to the X/Twitter post
