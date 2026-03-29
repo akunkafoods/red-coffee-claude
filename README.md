@@ -1,6 +1,6 @@
 # Red Coffee for Claude Code
 
-Science-backed focus breaks, right inside your terminal.
+A simple ritual for coders who want a better work block, not a chemistry experiment.
 
 <p align="center">
   <img src="https://cdn.shopify.com/s/files/1/0878/6722/8460/files/Red_Coffee_Hot.png?v=1773253839" alt="Red Coffee" width="300">
@@ -10,11 +10,18 @@ Science-backed focus breaks, right inside your terminal.
 
 A single-file slash command for [Claude Code](https://code.claude.com). Type `/red-coffee` and get:
 
-- **Flow science** — how nitrate, caffeine, and your brain actually work
-- **Recipes** — beetroot + arabica coffee blends calibrated for focus
-- **Break nudges** — science-grounded reminders to step away and come back sharper
+- **Geek science** — how nitrate, caffeine, and your brain actually work — in dev-native language
+- **Brew protocols** — CLI-style recipes calibrated for deep work blocks
+- **Red alerts** — programmer-native nudges to step away before you hit diminishing returns
+- **Developer state checks** — pattern-match your current cognitive state and decide what to do about it
 
 No install wizard. No dependencies. No account. One file.
+
+## Why developers might care
+
+Long coding sessions often fail not because the problem is hard, but because attention quality drops. You stop getting smarter and start re-reading the same function.
+
+Red Coffee is built for deep work blocks, break windows, and return-to-task clarity. Think: before a debug session, between long Claude Code runs, or before re-entering a difficult code path.
 
 ## Install
 
@@ -48,13 +55,15 @@ That's it.
 
 ## What's Red Coffee?
 
-Red Coffee is beetroot powder + Arabica coffee. Not a supplement. Not a nootropic stack. Just two real ingredients with a dual mechanism:
+Beetroot powder + Arabica coffee. Not a supplement. Not a nootropic stack.
+
+Caffeine and dietary nitrate act through different pathways:
 
 **Arabica Coffee** — Adenosine receptor blockade → Focus and alertness
 
 **Beetroot Nitrate** — Nitrate → Nitrite → NO pathway → Vasodilation and blood flow
 
-**Combined** — Vasoconstriction + Vasodilation = Equilibrium → Sustained focus + flow
+**Combined** — Different pathways, same cup. Neural stimulation + vascular support = two independent levers for smoother focus.
 
 Per serving (7g): ~58mg caffeine · ~120mg nitrate
 
