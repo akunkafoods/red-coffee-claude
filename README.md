@@ -2,7 +2,9 @@
 
 Science-backed focus breaks, right inside your terminal.
 
-![Red Coffee](https://cdn.shopify.com/s/files/1/0878/6722/8460/files/Red_Coffee_Hot.png?v=1773253839)
+<p align="center">
+  <img src="https://cdn.shopify.com/s/files/1/0878/6722/8460/files/Red_Coffee_Hot.png?v=1773253839" alt="Red Coffee" width="300">
+</p>
 
 ## What is this?
 
