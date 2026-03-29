@@ -11,7 +11,7 @@ A simple ritual for coders who want a better work block, not a chemistry experim
 A single-file slash command for [Claude Code](https://code.claude.com). Type `/red-coffee` and get:
 
 - **Geek science** — how nitrate, caffeine, and your brain actually work — in dev-native language
-- **Brew protocols** — CLI-style recipes calibrated for deep work blocks
+- **Red protocols** — instant mix recipes formatted as CLI commands
 - **Red alerts** — programmer-native nudges to step away before you hit diminishing returns
 - **Developer state checks** — pattern-match your current cognitive state and decide what to do about it
 
@@ -55,15 +55,17 @@ That's it.
 
 ## What's Red Coffee?
 
-Beetroot powder + Arabica coffee. Not a supplement. Not a nootropic stack.
+Beetroot powder + Arabica coffee. Instant mix. Not a supplement. Not a nootropic stack. A simple ritual for coders who want a better work block, not a chemistry experiment.
 
-Caffeine and dietary nitrate act through different pathways:
+One cup. Two mechanisms.
 
 **Arabica Coffee** — Adenosine receptor blockade → Focus and alertness
 
 **Beetroot Nitrate** — Nitrate → Nitrite → NO pathway → Vasodilation and blood flow
 
-**Combined** — Different pathways, same cup. Neural stimulation + vascular support = two independent levers for smoother focus.
+**Combined** — Vasoconstriction + Vasodilation = Equilibrium → Sustained focus + flow
+
+The nitrate → nitric oxide pathway won the 1998 Nobel Prize in Medicine (Furchgott, Ignarro, Murad).
 
 Per serving (7g): ~58mg caffeine · ~120mg nitrate
 
