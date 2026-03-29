@@ -56,7 +56,7 @@ Red Coffee is beetroot powder + Arabica coffee. Not a supplement. Not a nootropi
 
 **Combined** — Vasoconstriction + Vasodilation = Equilibrium → Sustained focus + flow
 
-Per serving (7g): ~58mg caffeine · ~116mg nitrate
+Per serving (7g): ~58mg caffeine · ~120mg nitrate
 
 ## Buy
 
