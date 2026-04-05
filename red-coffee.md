@@ -65,7 +65,7 @@ Red Coffee is instant — add powder to your liquid, beat for a few seconds, don
 - `--boost` Active Boost — 2 scoops (14g). 116mg caffeine, 240mg nitrate. Strong filter intensity. For when the commit is past 50 files and you're still debugging in production.
 
 **Liquid — your call:**
-Hot water, cold water, milk, or any combo. No brewing, no boiling, no special sequence. It's instant.
+Hot milk, cold water, cold milk, or any combo. No brewing, no boiling, no special sequence. It's instant.
 
 Example output:
 ```
